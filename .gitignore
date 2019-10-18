@@ -2,6 +2,6 @@
 /.vscode/*
 /vid_results/*
 /mp3_results/*
-/results/
+/results/*
 /__pycache__
 /combined_mp3/*
