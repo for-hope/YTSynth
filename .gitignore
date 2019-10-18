@@ -1,0 +1,6 @@
+/vids/*
+/.vscode/*
+/vid_results/*
+/mp3_results/*
+/results/*
+/__pycache__
